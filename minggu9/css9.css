@@ -1,0 +1,37 @@
+body{
+background: #35A9DB;
+font-family: Verdana;
+text-align: center;
+}
+h1{
+color: rgb(157, 248, 12);
+}
+.jadwal{
+margin: 10px auto;
+width: 1150px;
+}
+.jadwal{
+background: #b307b9;
+padding: 20px;
+width: 200px;
+float:left;
+margin: 20px;
+height: 200px;
+    }
+    .jadwal1{
+    border-radius: 10px 10px 10px 10px;
+    }
+    .jadwal2{
+    border-radius: 40px 20px 60px 90px
+    }
+    .jadwal3{
+        border-radius: 2px 140px 20px 60px;
+    }
+    .jadwal4{
+        border-radius: 20px 10px 80px 10px;
+    }
+    .jadwal5{
+        border-radius: 0px 50px 0px 50px;
+    }
+        
+
